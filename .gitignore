@@ -14,3 +14,6 @@
 # Maven stuff
 target/
 dependency-reduced-pom.xml
+
+# private shit
+Configuration.java
