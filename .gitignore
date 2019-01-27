@@ -16,4 +16,4 @@ target/
 dependency-reduced-pom.xml
 
 # private shit
-Configuration.java
+/src/main/java/ml/apti/discord/pinbot/Configuration.java
