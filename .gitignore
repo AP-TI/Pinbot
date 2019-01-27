@@ -1,0 +1,16 @@
+# Compiled classes
+*.class
+
+# Log files
+*.log
+
+# Packages
+# *.jar
+
+# User-specific
+.idea
+*.iml
+
+# Maven stuff
+target/
+dependency-reduced-pom.xml
